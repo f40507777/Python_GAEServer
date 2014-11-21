@@ -1,0 +1,4 @@
+cron:
+- description: updata blog title
+  url: /get
+  schedule: every 10 mins #24 hours #
